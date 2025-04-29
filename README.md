@@ -18,8 +18,8 @@ I'm an applied scientist with over 7 years of experience designing, developing, 
 - Bioinformatics
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C++, JAX, R, MATLAB
-- **ML/AI:** PyTorch, TensorFlow, Transformers, Hugging Face
+- **Languages:** Python, C++, R, MATLAB
+- **ML/AI:** PyTorch, TensorFlow, JAX, Scikit-learn
 - **LLMs & Generative AI**: LangChain, LlamaIndex, RLHF, OpenAI API
 - **MLOps**: MLflow, Weights & Biases, Kubeflow
 - **Data:** PostgreSQL, REDCap
