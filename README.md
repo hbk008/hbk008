@@ -48,4 +48,4 @@ I'm an applied scientist with over 7 years of experience designing, developing, 
 
 ---
 
-*"At the intersection of AI and neuroscience lies the future of how we understand both machines and the human brain."*
+*"Neuroscience illuminates AI architecture while AI models decode neural complexity—two fields in perpetual conversation, each advancing the other."*
