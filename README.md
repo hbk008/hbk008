@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Harshit 👋
 
-<!--
-**hbk008/hbk008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI/ML Engineer & Computational Neuroscience Researcher
 
-Here are some ideas to get you started:
+I'm an applied scientist with over 7 years of experience designing, developing, and deploying machine learning models and data-driven systems across healthcare, neuroscience, and industrial applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- AI-Powered Co-Design Companion for Pediatric Transition Care: This tool would use generative AI to synthesize clinician, youth, and family inputs into personalized transition plans. 
+- AI-Driven Adaptive Goal Setter for Pediatric Rehabilitation: This tool would generate and adapt rehab goals based on clinician, youth, and family inputs.
+- Personalized Community Resource Navigator: Enhancing Healthcare Access for Uninsured Patients
+- AI-based medication recommendation systems for improved clinical decision-making.
+
+### 🧠 Research Focus
+- Explainable AI
+- Machine Learning
+- Computational Neuroscience
+- Brain-Machine Interfaces + Wearables + Bio-signal Processing
+- Bioinformatics
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C++, JAX, R, MATLAB
+- **ML/AI:** PyTorch, TensorFlow, Transformers, Hugging Face
+- **LLMs & Generative AI**: LangChain, LlamaIndex, RLHF, OpenAI API
+- **MLOps**: MLflow, Weights & Biases, Kubeflow
+- **Data:** PostgreSQL, REDCap
+- **Cloud & Infrastructure**: AWS, GCP, Docker, Kubernetes, CI/CD
+- **Distributed Computing**: SLURM
+
+### 📚 Publications
+- [A precision health approach to medication management in neurodivergence](https://www.medrxiv.org/content/10.1101/2025.03.12.25323683v1) (2025)
+- [Encoding medical ontologies with holographic reduced representations for transformers](https://openreview.net/forum?id=LN4zA2D8vd) (2024)
+- [Evaluating perceptual and semantic interpretability of saliency methods](https://doi.org/10.1002/ail2.77) (2022)
+- [Digitized ADOS: Social interactions beyond the limits of the naked eye](https://doi.org/10.3390/jpm10040159) (2020)
+- [Neural connectivity evolution during adaptive learning with and without proprioception](https://doi.org/10.1145/3401956.3404232) (2020)
+
+### 🎓 Education
+- MS in Artificial Intelligence - University of Texas, Austin (In Progress)
+- MS in Industrial & Systems Engineering - Rutgers University
+- B.Tech in Mechanical Engineering - Rajasthan Technical University
+
+### 📊 GitHub Stats
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbk008&show_icons=true&theme=radical)
+
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hbk007/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=QxgwOOcAAAAJ&hl=en&oi=ao)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitbokadia@gmail.com)
+
+---
+
+*"At the intersection of AI and neuroscience lies the future of how we understand both machines and the human brain."*
