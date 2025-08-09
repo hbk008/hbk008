@@ -10,10 +10,7 @@
 I'm an applied scientist with over 7 years of experience designing, developing, and deploying machine learning models and data-driven systems across healthcare, neuroscience, and industrial applications.
 
 ### 🔭 Currently Working On
-- AI-Powered Co-Design Companion for Pediatric Transition Care: This tool would use generative AI to synthesize clinician, youth, and family inputs into personalized transition plans. 
-- AI-Driven Adaptive Goal Setter for Pediatric Rehabilitation: This tool would generate and adapt rehab goals based on clinician, youth, and family inputs.
-- Personalized Community Resource Navigator: Enhancing Healthcare Access for Uninsured Patients
-- AI-based medication recommendation systems for improved clinical decision-making.
+- Multiple AI in healthcare projects
 
 ### 🧠 Research Focus
 - Explainable AI
