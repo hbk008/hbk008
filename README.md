@@ -36,7 +36,6 @@ I'm an applied scientist with over 7 years of experience designing, developing, 
 - [Neural connectivity evolution during adaptive learning with and without proprioception](https://doi.org/10.1145/3401956.3404232) (2020)
 
 ### 🎓 Education
-- MS in Artificial Intelligence - University of Texas, Austin, USA (In Progress)
 - MS in Industrial & Systems Engineering - Rutgers University, NJ, USA
 - B.Tech in Mechanical Engineering - Rajasthan Technical University, India
 
