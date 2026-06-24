@@ -2,7 +2,7 @@
 
 **Research Associate at SUTD Singapore** — working on world model learning, embodied AI, and Bayesian inverse RL on an MoE-funded Science of Learning grant.
 
-I am an applied AI scientist with 7+ years across research labs and clinical AI environments in the US, Canada, and Singapore. My work spans embodied AI, probabilistic modeling, LLM post-training and inference, and XAI — grounded in computational neuroscience and clinical data science.
+I am an applied AI scientist with 7+ years across research labs and clinical AI environments in the US, Canada, and Singapore. My work spans embodied AI, probabilistic modeling, LLM post-training and inference, and XAI — grounded in computational neuroscience, cognitive science, and clinical data science.
 
 📄 Website: [hbk008.github.io](https://hbk008.github.io)
 
