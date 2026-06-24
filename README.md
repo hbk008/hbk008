@@ -27,7 +27,7 @@ I am an applied AI scientist with 7+ years across research labs and clinical AI 
 
 - Physical AI and world model learning for embodied agents
 - LLM post-training, efficient inference, and AI infrastructure
-- Mechanistic interpretability and XAI (DARPA/AFRL background)
+- Mechanistic interpretability and XAI 
 - Computational neuroscience — EEG, motor control, brain-machine interfaces
 - Clinical AI and precision health for neurodivergent populations
 
