@@ -79,7 +79,3 @@ Full list: [Google Scholar](https://scholar.google.ca/citations?user=QxgwOOcAAAA
 - BTech Mechanical Engineering — Rajasthan Technical University
 
 ---
-
-### 📊 GitHub Stats
-
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbk008&show_icons=true&theme=default&hide_border=true)
