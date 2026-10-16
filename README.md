@@ -39,9 +39,6 @@ EEG / EEGLAB / MNE · cross-coherence and network connectivity analysis · weara
 **Knowledge Representation**
 Vector-Symbolic Architectures (HRR) · SNOMED-CT · FHIR
 
-**Clinical Infrastructure**
-Azure ML · REDCap · POND network data pipelines
-
 ---
 
 ### 📚 Selected Publications
