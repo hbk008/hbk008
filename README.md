@@ -6,15 +6,6 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=QxgwOOcAAAAJ&hl=en&oi=ao)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitbokadia@gmail.com)
 
----
-
-### 🔭 Currently Working On
-
-- **World model estimation from kinematic data** — Bayesian inverse RL over MDPs inferred from motion-capture sequences, grounded with MuJoCo humanoid simulation (SUTD, MoE SoL grant)
-- **Side projects** — LLM architectures, post-training (RLHF, DPO, instruction tuning), efficient inference, and generative models
-
----
-
 ### 🧠 Research Focus
 
 - Physical AI and world model learning for embodied agents
